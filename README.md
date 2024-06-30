@@ -14,4 +14,4 @@ This script launches the test runner in interactive watch mode.
 # npm run build
 This script builds the app for production and outputs the optimized files to the build folder.
 
-# This project is equipped with local storage functionality, allowing data to persist between sessions. It also offers features such as adding, deleting, and completing tasks.
+- `This project is equipped with local storage functionality, allowing data to persist between sessions. It also offers features such as adding, deleting, and completing tasks.`
